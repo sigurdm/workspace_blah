@@ -1,0 +1,6 @@
+name: _
+environment:
+  sdk: ^3.5.0-0
+
+workspace:
+  - app
